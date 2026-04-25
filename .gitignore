@@ -2,4 +2,4 @@
 *.dSYM/
 test_allocator
 test_asan
-
+DS_Store
